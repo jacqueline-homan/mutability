@@ -1,0 +1,5 @@
+/home/jacqueline/F-sharp/mutability/mutability/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/mutability/mutability/bin/Debug/mutability.exe.mdb
+/home/jacqueline/F-sharp/mutability/mutability/bin/Debug/mutability.exe
+/home/jacqueline/F-sharp/mutability/mutability/obj/x86/Debug/mutability.exe
+/home/jacqueline/F-sharp/mutability/mutability/obj/x86/Debug/mutability.exe.mdb
